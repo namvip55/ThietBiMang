@@ -7,6 +7,20 @@ Hệ thống tài liệu hỗ trợ học tập, thực hành mạng Cisco Packe
 - Hiểu rõ bản chất câu lệnh và logic vận hành mạng.
 - Tự giải quyết các bài toán thực tế và đề thi tổng hợp.
 
+## 💻 Cài đặt & Chuẩn bị
+
+### 1. Cài đặt Cisco Packet Tracer
+Để thực hành các bài lab này, bạn cần cài đặt phần mềm mô phỏng mạng của Cisco:
+- **Tải xuống:** Truy cập [Skills For All](https://skillsforall.com/) hoặc [Cisco Networking Academy](https://www.netacad.com/) để tải bản mới nhất (Yêu cầu tài khoản miễn phí).
+- **Yêu cầu:** Phiên bản 8.0 trở lên để đảm bảo tính tương thích với các lệnh và tính năng mới.
+
+### 2. Sử dụng Repository
+- **Clone repo:** 
+  ```bash
+  git clone https://github.com/[your-username]/ThietBiMang.git
+  ```
+- **Mở tài liệu:** Bạn có thể đọc các file `.md` trực tiếp trên GitHub hoặc dùng VS Code để theo dõi hướng dẫn trong khi làm lab.
+
 ## 📁 Cấu trúc Repository
 
 ### 1. [BaiThucHanh.md](BaiThucHanh.md)
